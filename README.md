@@ -1,3 +1,11 @@
+[![Build Status](https://travis-ci.com/yudapc/reactjs-tdd-stylee.svg?branch=master)](https://travis-ci.com/yudapc/reactjs-tdd-stylee)
+
+### CUSTOMIZE
+
+Install enzyme and jest:
+
+`yarn add -D enzyme enzyme-adapter-react-16`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,9 +74,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-
-### CUSTOMIZE
-
-Install enzyme and jest:
-
-`yarn add -D enzyme enzyme-adapter-react-16 jest jest-enzyme`
